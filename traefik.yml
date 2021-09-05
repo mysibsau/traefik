@@ -1,0 +1,6 @@
+providers:
+    docker: true
+
+entrypoints:
+    web:
+        address: :80
